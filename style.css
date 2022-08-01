@@ -1,0 +1,11 @@
+textarea {
+  height: 20vh;
+  width: 70%;
+  border: 1px solid gray;
+}
+#output {
+  width: 70%;
+  height: 20vh;
+  border: 1px solid black;
+  padding: 3rems;
+}
