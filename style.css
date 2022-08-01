@@ -20,7 +20,6 @@ textarea {
   padding: 1.5rem;
   margin: auto;
   display: block;
-  border: 1px solid gray;
   border-radius: 50px;
 }
 .btn {
@@ -46,6 +45,6 @@ textarea {
   text-align: left;
 }
 .output-text {
-  margin: 1rem;
+  margin-bottom: 1rem;
   font-size: larger;
 }
