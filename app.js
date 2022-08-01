@@ -2,7 +2,8 @@ let btnTranslate = document.querySelector("#btn-translate");
 let clearBtn = document.querySelector("#clr-btn");
 let userInput = document.querySelector("#user-input");
 let output = document.querySelector("#output");
-let url = "https://api.funtranslations.com/translate/shakespeare.json";
+// let url = "https://api.funtranslations.com/translate/shakespeare.json";
+let url = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
 
 btnTranslate.addEventListener("click", clickEventHandler);
 
