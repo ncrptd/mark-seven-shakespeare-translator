@@ -1,11 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin: 1rem;
+}
 textarea {
   height: 20vh;
   width: 70%;
+  padding: 1rem;
+  margin: 1rem;
+  display: block;
   border: 1px solid gray;
 }
+#btn-translate {
+  margin: 1rem;
+  display: inline-block;
+}
+
 #output {
   width: 70%;
   height: 20vh;
+  margin: 1rem;
   border: 1px solid black;
-  padding: 3rems;
+  padding: 1rem;
 }
