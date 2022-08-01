@@ -19,6 +19,7 @@ function clickEventHandler() {
     .catch(errorHandler);
 }
 function errorHandler(error) {
+  console.log("error" + error);
   alert("something wrong with the servor please try again later");
   userInput.value = "";
 }
