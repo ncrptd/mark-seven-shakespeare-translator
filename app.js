@@ -20,6 +20,6 @@ function clickEventHandler() {
     .catch(errorHandler);
 }
 function errorHandler(error) {
-  alert("something wrong with the servor please try again later");
+  alert("something wrong with the server please try again later");
   userInput.value = "";
 }
