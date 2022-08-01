@@ -8,15 +8,19 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>Shakespeare Translator</h1>
-    <textarea
-      id="user-input"
-      placeholder="Type in English and get it translated in Shakespeare English"
-    ></textarea>
-    <button id="btn-translate">Click me</button>
-    <button id="clr-btn">Clear</button>
-    <div style="font-size: larger; margin: 1rem">Output will come here 👇</div>
-    <div id="output"></div>
+    <div class="container">
+      <h1>Shakespeare Translator</h1>
+      <div class="container">
+        <textarea
+          id="user-input"
+          placeholder="Type in English and get it translated in Shakespeare English"
+        ></textarea>
+        <button id="btn-translate" class="btn">Click me</button>
+        <button id="clr-btn" class="btn">Clear</button>
+        <div class="output-text">Output will come here 👇</div>
+        <div id="output"></div>
+      </div>
+    </div>
     <script src="app.js"></script>
   </body>
 </html>
