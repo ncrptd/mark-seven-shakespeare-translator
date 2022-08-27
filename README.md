@@ -5,10 +5,11 @@ plain english and this app will translate it for you in Shakespearean english.
 
 
 # How to use
-> Type anything in Plain English
-> Click Translate
-> Output will be shown below the Translate button
-> Click Clear to clear the input field
+
+* Type anything in Plain English
+* Click Translate
+* Output will be shown below the Translate button
+* Click Clear to clear the input field
 
 #Programming Languages
 > Html
