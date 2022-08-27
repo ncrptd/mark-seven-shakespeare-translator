@@ -12,6 +12,7 @@ plain english and this app will translate it for you in Shakespearean english.
 * Click Clear to clear the input field
 
 #Programming Languages
-> Html
-> CSS
-> Javascript
+
+* Html
+* CSS
+* Javascript
